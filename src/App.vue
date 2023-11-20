@@ -18,7 +18,7 @@ nav {
   a {
     display: inline-block;
     padding: 0 1rem;
-    border-left: 1px solid black;
+    border-left: 2px solid #ddd;
     &:hover {
       color: orange;
     }
