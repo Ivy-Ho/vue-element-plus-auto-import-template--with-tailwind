@@ -1,35 +1,37 @@
-# vue-elemnt-tailwind-template
+# vue-element-plus-auto-import-template--with-tailwind
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a startup template building with below technologies.
 
-## Recommended IDE Setup
+## Technologies Used
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue3
+- Vue-router
+- Pinia
+- Vite
+- Tailwind CSS
+- ESLint
+- Prettier
 
 ## Project Setup
 
 ```sh
-npm install
+yarn install
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+yarn lint
 ```
